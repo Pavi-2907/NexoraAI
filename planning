@@ -1,0 +1,91 @@
+Basic Technologies
+
+File Handling
+
+File Upload (Multipart/Form-Data)
+MIME Type Detection
+File Extension Validation
+File Size Validation
+File Storage (Local, S3, Azure Blob)
+
+Document Parsing
+
+PDF Parsing
+DOCX Parsing
+PPTX Parsing
+Excel Parsing
+CSV Parsing
+
+Text Processing
+
+Text Extraction
+OCR
+Text Cleaning
+Encoding Handling
+Language Detection
+
+LLM Interaction
+
+Prompt Building
+Tokenization
+Context Management
+Response Generation
+
+Advanced Technologies
+
+Intelligent Document Understanding
+
+Layout Analysis
+Structure Extraction
+Table Understanding
+Form Understanding
+Key-Value Extraction
+Semantic Segmentation
+
+OCR & Vision
+
+Multimodal Models
+Vision Transformers (ViT)
+Handwriting Recognition
+Chart Understanding
+Diagram Understanding
+
+Large File Processing
+
+Chunking Strategies
+Hierarchical Summarization
+Context Compression
+Dynamic Context Selection
+
+Enterprise-Grade Processing
+
+Asynchronous Processing
+Event-Driven Pipelines
+Message Queues (Kafka, RabbitMQ)
+Distributed Workers
+Workflow Orchestration
+
+AI Enhancements
+
+Document Classification
+Content Categorization
+Topic Modeling
+Entity Recognition (NER)
+Metadata Extraction
+Semantic Search
+
+Performance Optimization
+
+Caching
+Streaming Responses
+Batching
+Parallel Processing
+GPU Inference Optimization
+
+Security
+
+Malware Scanning
+PII Detection
+Data Redaction
+Access Control
+Encryption
