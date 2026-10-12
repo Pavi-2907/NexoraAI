@@ -33,6 +33,15 @@ Response Generation
 
 Advanced Technologies
 
+How would you handle a 5GB PDF upload?
+
+Topics:
+
+Streaming Uploads
+Chunked Uploads
+Resumable Uploads
+Presigned URLs
+
 Intelligent Document Understanding
 
 Layout Analysis
