@@ -1,2 +1,3 @@
-# NexoraAI
-Exploring AI chatbot, how it's answering questions, assist with tasks, understand documents, and provide intelligent conversational responses across multiple domains. 
+https://github.com/alirezadir/Agentic-AI-Systems
+
+https://github.com/ProjectProRepo/Agentic-AI
