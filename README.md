@@ -24,21 +24,19 @@ NexoraAI is an AI-powered assistant built using Python, FastAPI, and Groq. It pr
 
 ## Project Structure
 
-```text
 NexoraAI/
-Γö£ΓöÇΓöÇ app/
-Γöé   Γö£ΓöÇΓöÇ endpoints/
-Γöé   Γöé   ΓööΓöÇΓöÇ text.py
-Γöé   Γö£ΓöÇΓöÇ routers/
-Γöé   Γöé   ΓööΓöÇΓöÇ routes.py
-Γöé   Γö£ΓöÇΓöÇ services/
-Γöé   Γöé   ΓööΓöÇΓöÇ llm_service.py
-Γöé   Γö£ΓöÇΓöÇ .gitignore
-Γöé   Γö£ΓöÇΓöÇ main.py
-Γöé   ΓööΓöÇΓöÇ requirements.txt
-Γö£ΓöÇΓöÇ planning.md
-ΓööΓöÇΓöÇ README.md
-```
+├── app/
+│   ├── endpoints/
+│   │   └── text.py
+│   ├── routers/
+│   │   └── routes.py
+│   ├── services/
+│   │   └── llm_service.py
+│   ├── .gitignore
+│   ├── main.py
+│   └── requirements.txt
+├── planning.md
+└── README.md
 
 ## Installation and Setup
 
