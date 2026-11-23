@@ -1,3 +1,4 @@
-
-uvicorn 
-fastapi
+﻿fastapi==0.143.0
+uvicorn==0.54.0
+groq==1.7.0
+python-dotenv==1.2.4
